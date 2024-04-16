@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 700,
+  "height": 500,
+  "title": {
+    "text": "Worldwide Deaths on Roads per 100k inhabitants",
+    "fontSize": 20
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/Wenjie0325/forest-vis/main/worldMap.json",
+    "format": {"property": "features"}
+  },
+  "projection": {"type": "mercator"},
+  "transform": [
+    {
+      "lookup": "properties.name",
+      "from": {
+        "key": "entity",
+        "fields": ["forest_area"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/Wenjie0325/forest-vis/main/forest_area_processed.csv",
+          "format": {"type": "csv"}
+        } 
+      }
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    
+    "stroke": "#141010",
+    "strokeWidth": 0.5
+  },
+  "encoding": {
+    "color": {
+      "field": "forest_area",
+      "type": "quantitative",
+      "scale": {"scheme": "oranges"}
+    },
+    "tooltip": [
+      {"field": "properties.name", "title": "Country"},
+      {
+        "field": "deaths_100k_people_year",
+        "type": "quantitative",
+        "title": "Deaths per 100k inhabitants"
+      }
+    ]
+  },
+  "config": {"mark": {"invalid": null}}
+}
