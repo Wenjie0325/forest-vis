@@ -1,58 +1,98 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "vconcat": [
+  "hconcat": [
     {
+      
       "width": 500,
-      "height": 300,
-      "layer": [
-        {
-          "data": {
-            "url": "data/us-10m.json",
-            "format": {"type": "topojson", "feature": "states"}
-          },
-          "projection": {"type": "albersUsa"},
-          "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
-        },
-        {
-          "data": {
-            "url": "https://raw.githubusercontent.com/Wenjie0325/forest-vis/main/postOffice_data_processed_sample.csv"
-          },
-          "projection": {"type": "albersUsa"},
-          "params": [{"name": "brush", "select": {"type": "interval","resolve": "global"}}],
-          "mark": "point",
-          "encoding": {
-            "longitude": {"field": "longitude", "type": "quantitative"},
-            "latitude": {"field": "latitude", "type": "quantitative"},
-            "size": {"value": 10},
-            "color": {
-              "condition": {
-                "param": "brush",
-                
-                "field": "duration_category",
-                "type": "nominal"
-              },
-              "value": "grey"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "width": 500,
-      "height": 300,
+      "height": 600,
       "mark": "bar",
       "data": {
         "url": "https://raw.githubusercontent.com/Wenjie0325/forest-vis/main/postOffice_data_processed_sample.csv"
       },
-      "transform": [{
-        "filter":{"param": "brush"}
-      }],
+      "params": [{"name": "sport_selection", "select": {"type": "point", "toggle": false, "fields": ["duration_category"]}}],
+      "transform": [{"filter": {"param": "brush"}},{"filter":{"param": "pts"}},{"filter":{"param": "sport_selection"}}],
       "encoding": {
-        "x": { "field": "state", "type": "nominal"},
-        "y": {"aggregate": "count", "type": "quantitative"},
+        "y": {"field": "state", "type": "nominal"},
+        "x": {
+          "aggregate": "count",
+          "type": "quantitative",
+          "title": "Count of Post Office "
+        },
         "size": {"value": 10},
-        "color": {"field": "duration_category","type": "nominal"}
+        "color": {"field": "duration_category", "type": "nominal"}
       }
-    }
+    },
+    {
+      "vconcat": [
+        {
+          "width": 500,
+          "height": 600,
+          "layer": [
+            {
+              "data": {
+                "url": "data/us-10m.json",
+                "format": {"type": "topojson", "feature": "states"}
+              },
+              "projection": {"type": "albersUsa"},
+              "mark": {
+                "type": "geoshape",
+                "fill": "lightgray",
+                "stroke": "white"
+              }
+            },
+            {
+              "data": {
+                "url": "https://raw.githubusercontent.com/Wenjie0325/forest-vis/main/postOffice_data_processed_sample.csv"
+              },
+              "projection": {"type": "albersUsa"},
+              "params": [
+                {
+                  "name": "brush",
+                  "select": {"type": "interval", "resolve": "global"}
+                },
+                {
+                  "name": "pts",
+                  "select": {"type": "point", "fields": ["duration_category"],"resolve": "global"}
+                }
+              ],
+              "mark": "point",
+              "transform": [{
+                "filter":{"param": "pts"}
+              }],
+              "encoding": {
+                "longitude": {"field": "longitude", "type": "quantitative"},
+                "latitude": {"field": "latitude", "type": "quantitative"},
+                "size": {"value": 10},
+                "tooltip": {"field": "name", "type": "nominal"},
+                "color": {
+                  "condition": {
+                    "param": "brush",
+                    "field": "duration_category",
+                    "type": "nominal"
+                  },
+                  "value": "grey"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "width": 500,
+          "height": 300,
+          "mark": "bar",
+          "data": {
+            "url": "https://raw.githubusercontent.com/Wenjie0325/forest-vis/main/postOffice_data_processed_sample.csv"
+          },
+          "transform": [{"filter": {"param": "brush"}},{"filter":{"param": "pts"}}],
+          "encoding": {
+            "x": {"field": "state", "type": "nominal"},
+            "y": {"aggregate": "count", "type": "quantitative"},
+            "size": {"value": 10},
+            "color": {"field": "duration_category", "type": "nominal"}
+          }
+        }
+      ]
+    },
+    
   ]
 }
