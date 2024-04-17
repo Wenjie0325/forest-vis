@@ -30,6 +30,37 @@
 "Afghanistan","AFG",2018,0.0296993654671732
 "Afghanistan","AFG",2019,0.0297358132298798
 "Afghanistan","AFG",2020,0.0297723504882678
+"Africa","",1990,17.5336485551234
+"Africa","",1991,17.4886953871953
+"Africa","",1992,17.4435752537086
+"Africa","",1993,17.3982872227143
+"Africa","",1994,17.3528303553151
+"Africa","",1995,17.3072037294251
+"Africa","",1996,17.2614063444481
+"Africa","",1997,17.2154372640292
+"Africa","",1998,17.1692955208199
+"Africa","",1999,17.1229801401911
+"Africa","",2000,17.0764901401646
+"Africa","",2001,17.0158108627302
+"Africa","",2002,16.9549802603131
+"Africa","",2003,16.893997748897
+"Africa","",2004,16.8328627103086
+"Africa","",2005,16.7715745552918
+"Africa","",2006,16.7101327894703
+"Africa","",2007,16.648536793619
+"Africa","",2008,16.5867859702897
+"Africa","",2009,16.524879767239
+"Africa","",2010,16.4628175810176
+"Africa","",2011,16.3855828205267
+"Africa","",2012,16.3081932157666
+"Africa","",2013,16.2306338566122
+"Africa","",2014,16.1529041041947
+"Africa","",2015,16.0750034364459
+"Africa","",2016,15.9973607383123
+"Africa","",2017,15.9195278977937
+"Africa","",2018,15.8415042552149
+"Africa","",2019,15.7632891468952
+"Africa","",2020,15.6848817891908
 "Albania","ALB",1990,0.0186194375380447
 "Albania","ALB",1991,0.018607837091256
 "Albania","ALB",1992,0.0185961935579582
@@ -123,6 +154,37 @@
 "American Samoa","ASM",2018,0.000422472023750212
 "American Samoa","ASM",2019,0.00042225228809435
 "American Samoa","ASM",2020,0.000422032011406463
+"Americas","",1990,40.8113498275018
+"Americas","",1991,40.7594127791814
+"Americas","",1992,40.7072825887713
+"Americas","",1993,40.6549586529441
+"Americas","",1994,40.6024394126431
+"Americas","",1995,40.5497242501727
+"Americas","",1996,40.4968118271219
+"Americas","",1997,40.4437007950439
+"Americas","",1998,40.3903905141447
+"Americas","",1999,40.3368793796355
+"Americas","",2000,40.2831667366161
+"Americas","",2001,40.2113845999032
+"Americas","",2002,40.1394234977654
+"Americas","",2003,40.0672829038705
+"Americas","",2004,39.9949616615177
+"Americas","",2005,39.9224592376086
+"Americas","",2006,39.8497751444456
+"Americas","",2007,39.7769086009624
+"Americas","",2008,39.7038590657888
+"Americas","",2009,39.6306255550497
+"Americas","",2010,39.5572075200684
+"Americas","",2011,39.53567676457
+"Americas","",2012,39.5140458633535
+"Americas","",2013,39.4923676000793
+"Americas","",2014,39.4706416254593
+"Americas","",2015,39.4488678788853
+"Americas","",2016,39.4277630616306
+"Americas","",2017,39.4066064738165
+"Americas","",2018,39.3853977762606
+"Americas","",2019,39.3641373661104
+"Americas","",2020,39.342824612358
 "Andorra","AND",1990,0.000377676217810237
 "Andorra","AND",1991,0.000378376302294079
 "Andorra","AND",1992,0.000379078987039536
@@ -338,6 +400,37 @@
 "Aruba","ABW",2018,1.03221785907556e-05
 "Aruba","ABW",2019,1.03348462120995e-05
 "Aruba","ABW",2020,1.0347544938162e-05
+"Asia","",1990,13.4542006048286
+"Asia","",1991,13.48272293483
+"Asia","",1992,13.8789440017507
+"Asia","",1993,13.9095541822635
+"Asia","",1994,13.9402784555229
+"Asia","",1995,13.9711174845623
+"Asia","",1996,14.002071937377
+"Asia","",1997,14.0331424152276
+"Asia","",1998,14.064329619729
+"Asia","",1999,14.0956341617587
+"Asia","",2000,14.1270567289498
+"Asia","",2001,14.2013624847466
+"Asia","",2002,14.2758536323881
+"Asia","",2003,14.350530832336
+"Asia","",2004,14.4253947825002
+"Asia","",2005,14.500446124994
+"Asia","",2006,14.575685683066
+"Asia","",2007,14.6511141061409
+"Asia","",2008,14.7267320704672
+"Asia","",2009,14.8025403629682
+"Asia","",2010,14.8785396673103
+"Asia","",2011,14.9199070790366
+"Asia","",2012,14.9613782127379
+"Asia","",2013,15.002940347004
+"Asia","",2014,15.0445937572768
+"Asia","",2015,15.086338756757
+"Asia","",2016,15.1370502367469
+"Asia","",2017,15.1878858433544
+"Asia","",2018,15.238846070089
+"Asia","",2019,15.2899314133837
+"Asia","",2020,15.3411422592279
 "Australia","AUS",1990,3.16025768300711
 "Australia","AUS",1991,3.16122498599493
 "Australia","AUS",1992,3.16219588175033
@@ -758,6 +851,16 @@
 "Bolivia","BOL",2018,1.261054266819
 "Bolivia","BOL",2019,1.25672842165436
 "Bolivia","BOL",2020,1.25239194279938
+"Bonaire, Sint Eustatius and Saba","",2011,4.6564581582311e-05
+"Bonaire, Sint Eustatius and Saba","",2012,4.66156073309764e-05
+"Bonaire, Sint Eustatius and Saba","",2013,4.66667451449836e-05
+"Bonaire, Sint Eustatius and Saba","",2014,4.67179951653822e-05
+"Bonaire, Sint Eustatius and Saba","",2015,4.67693578764036e-05
+"Bonaire, Sint Eustatius and Saba","",2016,4.68265437974769e-05
+"Bonaire, Sint Eustatius and Saba","",2017,4.68838696196307e-05
+"Bonaire, Sint Eustatius and Saba","",2018,4.69413359722458e-05
+"Bonaire, Sint Eustatius and Saba","",2019,4.69989434883572e-05
+"Bonaire, Sint Eustatius and Saba","",2020,4.70566924568795e-05
 "Bosnia and Herzegovina","BIH",1992,0.0518942548551442
 "Bosnia and Herzegovina","BIH",1993,0.0517573586202256
 "Bosnia and Herzegovina","BIH",1994,0.0516199520282073
@@ -1128,6 +1231,37 @@
 "Cape Verde","CPV",2018,0.00110889690003546
 "Cape Verde","CPV",2019,0.00111763979750847
 "Cape Verde","CPV",2020,0.0011264041775542
+"Caribbean","",1990,0.140672352704871
+"Caribbean","",1991,0.142937962346133
+"Caribbean","",1992,0.145211986940047
+"Caribbean","",1993,0.147494473456206
+"Caribbean","",1994,0.149785469214415
+"Caribbean","",1995,0.152085021887961
+"Caribbean","",1996,0.154393179506917
+"Caribbean","",1997,0.156709990461488
+"Caribbean","",1998,0.159035503505393
+"Caribbean","",1999,0.161369767759284
+"Caribbean","",2000,0.163712832714203
+"Caribbean","",2001,0.165574730580978
+"Caribbean","",2002,0.167441273398734
+"Caribbean","",2003,0.169312478174415
+"Caribbean","",2004,0.171188362395722
+"Caribbean","",2005,0.173068943219099
+"Caribbean","",2006,0.174954239140513
+"Caribbean","",2007,0.176844267498278
+"Caribbean","",2008,0.178739045699518
+"Caribbean","",2009,0.180638592538539
+"Caribbean","",2010,0.182542925607765
+"Caribbean","",2011,0.184236155761743
+"Caribbean","",2012,0.185845638942508
+"Caribbean","",2013,0.187458653813541
+"Caribbean","",2014,0.189075211097401
+"Caribbean","",2015,0.190695322932964
+"Caribbean","",2016,0.191437453145569
+"Caribbean","",2017,0.192181399946014
+"Caribbean","",2018,0.192927170482832
+"Caribbean","",2019,0.193674771946977
+"Caribbean","",2020,0.194424210135124
 "Cayman Islands","CYM",1990,0.000309930546240526
 "Cayman Islands","CYM",1991,0.000310032082692211
 "Cayman Islands","CYM",1992,0.00031013399627172
@@ -1190,6 +1324,66 @@
 "Central African Republic","CAF",2018,0.549606856726352
 "Central African Republic","CAF",2019,0.549543143940042
 "Central African Republic","CAF",2020,0.549479273228158
+"Central America","",1990,2.32728003805428
+"Central America","",1991,2.32120528422465
+"Central America","",1992,2.31510796747646
+"Central America","",1993,2.30898796187065
+"Central America","",1994,2.30284514052916
+"Central America","",1995,2.29667937562614
+"Central America","",1996,2.29049053837909
+"Central America","",1997,2.28427849903989
+"Central America","",1998,2.27804312688574
+"Central America","",1999,2.27178429020999
+"Central America","",2000,2.26550185631285
+"Central America","",2001,2.25977164715868
+"Central America","",2002,2.25402714929967
+"Central America","",2003,2.24826830373479
+"Central America","",2004,2.24249505664368
+"Central America","",2005,2.23670734852351
+"Central America","",2006,2.23090513584624
+"Central America","",2007,2.22508835855771
+"Central America","",2008,2.21925695635837
+"Central America","",2009,2.21341088485246
+"Central America","",2010,2.20755008317856
+"Central America","",2011,2.20412437614279
+"Central America","",2012,2.20069309549344
+"Central America","",2013,2.19725429192711
+"Central America","",2014,2.19380792990125
+"Central America","",2015,2.19035398987482
+"Central America","",2016,2.18638864951645
+"Central America","",2017,2.18241359491224
+"Central America","",2018,2.1784287957246
+"Central America","",2019,2.17443422142783
+"Central America","",2020,2.17042982526488
+"Central Asia","",1992,0.271839612325018
+"Central Asia","",1993,0.273421241764778
+"Central Asia","",1994,0.275008769988855
+"Central Asia","",1995,0.276602225280332
+"Central Asia","",1996,0.278201643294886
+"Central Asia","",1997,0.279807057564096
+"Central Asia","",1998,0.281418504267374
+"Central Asia","",1999,0.28303601265508
+"Central Asia","",2000,0.284659619413058
+"Central Asia","",2001,0.285886323811004
+"Central Asia","",2002,0.287116086532695
+"Central Asia","",2003,0.288348923176835
+"Central Asia","",2004,0.289584842857166
+"Central Asia","",2005,0.290823856449291
+"Central Asia","",2006,0.29206597457133
+"Central Asia","",2007,0.29331121306233
+"Central Asia","",2008,0.294559580541415
+"Central Asia","",2009,0.295811087817337
+"Central Asia","",2010,0.297065750913224
+"Central Asia","",2011,0.299633596472384
+"Central Asia","",2012,0.30220732759469
+"Central Asia","",2013,0.304786706269581
+"Central Asia","",2014,0.307371752064997
+"Central Asia","",2015,0.309962479515266
+"Central Asia","",2016,0.31206770488649
+"Central Asia","",2017,0.314178081544997
+"Central Asia","",2018,0.316293634109952
+"Central Asia","",2019,0.318414377499461
+"Central Asia","",2020,0.32054033421156
 "Chad","TCD",1990,0.158860059116431
 "Chad","TCD",1991,0.158262982990167
 "Chad","TCD",1992,0.157663689197081
@@ -1712,6 +1906,161 @@
 "Dominican Republic","DOM",2018,0.0522970720639064
 "Dominican Republic","DOM",2019,0.0525603210893015
 "Dominican Republic","DOM",2020,0.0528242169093169
+"EU-27","",1990,3.07567546529982
+"EU-27","",1991,3.096376632347
+"EU-27","",1992,3.36386635301166
+"EU-27","",1993,3.49340832743748
+"EU-27","",1994,3.51562883427654
+"EU-27","",1995,3.53793235898171
+"EU-27","",1996,3.56031934366357
+"EU-27","",1997,3.58279025766216
+"EU-27","",1998,3.60534557384327
+"EU-27","",1999,3.62798576863157
+"EU-27","",2000,3.65071132204422
+"EU-27","",2001,3.66685327229322
+"EU-27","",2002,3.6830354978901
+"EU-27","",2003,3.6992581650521
+"EU-27","",2004,3.71552137714153
+"EU-27","",2005,3.73182530160803
+"EU-27","",2006,3.74817013382858
+"EU-27","",2007,3.76455597029574
+"EU-27","",2008,3.78098298070269
+"EU-27","",2009,3.79745136314499
+"EU-27","",2010,3.81396121611527
+"EU-27","",2011,3.8261464050662
+"EU-27","",2012,3.83836164093342
+"EU-27","",2013,3.85060368663475
+"EU-27","",2014,3.86287261169201
+"EU-27","",2015,3.87516851415915
+"EU-27","",2016,3.88468511015003
+"EU-27","",2017,3.89422502192073
+"EU-27","",2018,3.90378829557749
+"EU-27","",2019,3.91337507597404
+"EU-27","",2020,3.92298538122749
+"EU-28","",1990,3.14124949861712
+"EU-28","",1991,3.16248843176533
+"EU-28","",1992,3.43051791590788
+"EU-28","",1993,3.56060166233719
+"EU-28","",1994,3.58336596093716
+"EU-28","",1995,3.60621530847643
+"EU-28","",1996,3.62915015846603
+"EU-28","",1997,3.6521709917319
+"EU-28","",1998,3.67527829271203
+"EU-28","",1999,3.69847254949042
+"EU-28","",2000,3.72175425383142
+"EU-28","",2001,3.7382375396558
+"EU-28","",2002,3.75476195247047
+"EU-28","",2003,3.77132766151184
+"EU-28","",2004,3.78793477334816
+"EU-28","",2005,3.80458345847502
+"EU-28","",2006,3.82127391585868
+"EU-28","",2007,3.8380062450711
+"EU-28","",2008,3.85478061889697
+"EU-28","",2009,3.87159723907658
+"EU-28","",2010,3.88845620722816
+"EU-28","",2011,3.90119095743618
+"EU-28","",2012,3.91395702425644
+"EU-28","",2013,3.92675110962892
+"EU-28","",2014,3.93957328668657
+"EU-28","",2015,3.95242365766703
+"EU-28","",2016,3.96220633082418
+"EU-28","",2017,3.97201297104356
+"EU-28","",2018,3.98184362701616
+"EU-28","",2019,3.99169844619573
+"EU-28","",2020,4.00157744873401
+"Eastern Africa","",1990,5.22028482348105
+"Eastern Africa","",1991,5.20686415382408
+"Eastern Africa","",1992,5.19339363696587
+"Eastern Africa","",1993,5.17987299467518
+"Eastern Africa","",1994,5.16630194664621
+"Eastern Africa","",1995,5.15268021047931
+"Eastern Africa","",1996,5.13900750166131
+"Eastern Africa","",1997,5.12528353354577
+"Eastern Africa","",1998,5.11150801733291
+"Eastern Africa","",1999,5.09768066204937
+"Eastern Africa","",2000,5.08380117452773
+"Eastern Africa","",2001,5.06615580622281
+"Eastern Africa","",2002,5.04846643331033
+"Eastern Africa","",2003,5.03073287865636
+"Eastern Africa","",2004,5.0129549765286
+"Eastern Africa","",2005,4.99513254827641
+"Eastern Africa","",2006,4.97726545070725
+"Eastern Africa","",2007,4.95935350346699
+"Eastern Africa","",2008,4.94139652546873
+"Eastern Africa","",2009,4.92339437081348
+"Eastern Africa","",2010,4.90534685667849
+"Eastern Africa","",2011,4.88480145587699
+"Eastern Africa","",2012,5.0388896195526
+"Eastern Africa","",2013,5.018449954238
+"Eastern Africa","",2014,4.99796538239118
+"Eastern Africa","",2015,4.97743576823719
+"Eastern Africa","",2016,4.95476764259542
+"Eastern Africa","",2017,4.93204400335413
+"Eastern Africa","",2018,4.90926465861429
+"Eastern Africa","",2019,4.88642941531095
+"Eastern Africa","",2020,4.86353804325772
+"Eastern Asia","",1990,4.95477254116955
+"Eastern Asia","",1991,5.00928063657878
+"Eastern Asia","",1992,5.06399118656518
+"Eastern Asia","",1993,5.11890532116595
+"Eastern Asia","",1994,5.17402417884394
+"Eastern Asia","",1995,5.22934890656638
+"Eastern Asia","",1996,5.28488065988443
+"Eastern Asia","",1997,5.34062060301361
+"Eastern Asia","",1998,5.3965699089152
+"Eastern Asia","",1999,5.45272975937845
+"Eastern Asia","",2000,5.50910134510388
+"Eastern Asia","",2001,5.57211439393258
+"Eastern Asia","",2002,5.63528464385526
+"Eastern Asia","",2003,5.6986126705214
+"Eastern Asia","",2004,5.7620990657751
+"Eastern Asia","",2005,5.82574441032586
+"Eastern Asia","",2006,5.88954932998869
+"Eastern Asia","",2007,5.95351441162807
+"Eastern Asia","",2008,6.0176402444377
+"Eastern Asia","",2009,6.08192746432879
+"Eastern Asia","",2010,6.14637666676607
+"Eastern Asia","",2011,6.19942067078084
+"Eastern Asia","",2012,6.25258631199417
+"Eastern Asia","",2013,6.30586861489528
+"Eastern Asia","",2014,6.35926793312498
+"Eastern Asia","",2015,6.41278466794079
+"Eastern Asia","",2016,6.4672719699442
+"Eastern Asia","",2017,6.52189266470219
+"Eastern Asia","",2018,6.57664725848049
+"Eastern Asia","",2019,6.63153626056828
+"Eastern Asia","",2020,6.6865601338791
+"Eastern Europe","",1990,20.6304172371879
+"Eastern Europe","",1991,20.6735746623223
+"Eastern Europe","",1992,20.1749446208246
+"Eastern Europe","",1993,20.2158060357147
+"Eastern Europe","",1994,20.2568197843282
+"Eastern Europe","",1995,20.2979867201195
+"Eastern Europe","",1996,20.3393077029301
+"Eastern Europe","",1997,20.3807835990488
+"Eastern Europe","",1998,20.4224152812718
+"Eastern Europe","",1999,20.4642036289645
+"Eastern Europe","",2000,20.5061495281229
+"Eastern Europe","",2001,20.5491158855616
+"Eastern Europe","",2002,20.5921894732196
+"Eastern Europe","",2003,20.6353706433298
+"Eastern Europe","",2004,20.67865979945
+"Eastern Europe","",2005,20.722057297011
+"Eastern Europe","",2006,20.7655636437528
+"Eastern Europe","",2007,20.8091791993538
+"Eastern Europe","",2008,20.8529043248771
+"Eastern Europe","",2009,20.8967395352521
+"Eastern Europe","",2010,20.940685195869
+"Eastern Europe","",2011,20.966131446621
+"Eastern Europe","",2012,20.9916518134535
+"Eastern Europe","",2013,21.0172282237367
+"Eastern Europe","",2014,21.0428607593611
+"Eastern Europe","",2015,21.0685496568442
+"Eastern Europe","",2016,21.0977648651145
+"Eastern Europe","",2017,21.1270515531422
+"Eastern Europe","",2018,21.1564100355484
+"Eastern Europe","",2019,21.1858406287874
+"Eastern Europe","",2020,21.2153434943547
 "Ecuador","ECU",1990,0.34538985818782
 "Ecuador","ECU",1991,0.343897684039768
 "Ecuador","ECU",1992,0.342399967641818
@@ -1952,6 +2301,37 @@
 "Ethiopia","ETH",2018,0.423074150834673
 "Ethiopia","ETH",2019,0.421797062725484
 "Ethiopia","ETH",2020,0.420516835183375
+"Europe","",1990,23.8345262449116
+"Europe","",1991,23.89869279099
+"Europe","",1992,23.5955049372858
+"Europe","",1993,23.6582741578975
+"Europe","",1994,23.7212773620216
+"Europe","",1995,23.7845159082082
+"Europe","",1996,23.8479910935656
+"Europe","",1997,23.9117042488422
+"Europe","",1998,23.9756566189457
+"Europe","",1999,24.0398497942159
+"Europe","",2000,24.1042849921888
+"Europe","",2001,24.1625186074368
+"Europe","",2002,24.2208977872779
+"Europe","",2003,24.279422777479
+"Europe","",2004,24.3380938832963
+"Europe","",2005,24.3969120784818
+"Europe","",2006,24.4558775496483
+"Europe","",2007,24.5149912775039
+"Europe","",2008,24.5742532754522
+"Europe","",2009,24.633664709012
+"Europe","",2010,24.6932255962208
+"Europe","",2011,24.7291274293532
+"Europe","",2012,24.7651293369794
+"Europe","",2013,24.801210538301
+"Europe","",2014,24.8373706841308
+"Europe","",2015,24.8736105852211
+"Europe","",2016,24.9121378358489
+"Europe","",2017,24.9507593568035
+"Europe","",2018,24.9894758016283
+"Europe","",2019,25.0282870892519
+"Europe","",2020,25.0671936924244
 "Falkland Islands","FLK",1990,0
 "Falkland Islands","FLK",1991,0
 "Falkland Islands","FLK",1992,0
@@ -1983,6 +2363,37 @@
 "Falkland Islands","FLK",2018,0
 "Falkland Islands","FLK",2019,0
 "Falkland Islands","FLK",2020,0
+"Faroe Islands","",1990,1.88838108905119e-06
+"Faroe Islands","",1991,1.8918815114704e-06
+"Faroe Islands","",1992,1.89539493519768e-06
+"Faroe Islands","",1993,1.89892143280221e-06
+"Faroe Islands","",1994,1.90246107739424e-06
+"Faroe Islands","",1995,1.90601394263018e-06
+"Faroe Islands","",1996,1.90958010271765e-06
+"Faroe Islands","",1997,1.91315963242072e-06
+"Faroe Islands","",1998,1.91675260706507e-06
+"Faroe Islands","",1999,1.92035910254331e-06
+"Faroe Islands","",2000,1.92397919532033e-06
+"Faroe Islands","",2001,1.92637591128567e-06
+"Faroe Islands","",2002,1.92877861056464e-06
+"Faroe Islands","",2003,1.93118731092907e-06
+"Faroe Islands","",2004,1.93360203488991e-06
+"Faroe Islands","",2005,1.93602280038564e-06
+"Faroe Islands","",2006,1.93844963951209e-06
+"Faroe Islands","",2007,1.94088257044704e-06
+"Faroe Islands","",2008,1.943321611436e-06
+"Faroe Islands","",2009,1.94576679499007e-06
+"Faroe Islands","",2010,1.94821813959852e-06
+"Faroe Islands","",2011,1.95034896679837e-06
+"Faroe Islands","",2012,1.95248617093095e-06
+"Faroe Islands","",2013,1.95462806889984e-06
+"Faroe Islands","",2014,1.95677466661287e-06
+"Faroe Islands","",2015,1.95892598435198e-06
+"Faroe Islands","",2016,1.96132120617704e-06
+"Faroe Islands","",2017,1.96372228773322e-06
+"Faroe Islands","",2018,1.96612925538202e-06
+"Faroe Islands","",2019,1.968542135638e-06
+"Faroe Islands","",2020,1.97096094060228e-06
 "Fiji","FJI",1990,0.0221811603196314
 "Fiji","FJI",1991,0.0223802015280902
 "Fiji","FJI",1992,0.0225799820176301
@@ -2076,6 +2487,37 @@
 "France","FRA",2018,0.419920971041354
 "France","FRA",2019,0.422488513150627
 "France","FRA",2020,0.425062363852639
+"French Guyana","",1990,0.191788704356761
+"French Guyana","",1991,0.192036473356634
+"French Guyana","",1992,0.192285162622895
+"French Guyana","",1993,0.19253477729218
+"French Guyana","",1994,0.192785322539422
+"French Guyana","",1995,0.193036803578213
+"French Guyana","",1996,0.193289225661163
+"French Guyana","",1997,0.193542594080265
+"French Guyana","",1998,0.193796914167267
+"French Guyana","",1999,0.194052191294047
+"French Guyana","",2000,0.194308430872986
+"French Guyana","",2001,0.194447084181435
+"French Guyana","",2002,0.194586083832911
+"French Guyana","",2003,0.194725430655917
+"French Guyana","",2004,0.194865125952746
+"French Guyana","",2005,0.195005170560293
+"French Guyana","",2006,0.19514556673684
+"French Guyana","",2007,0.195286315333376
+"French Guyana","",2008,0.195427417203805
+"French Guyana","",2009,0.195568874631942
+"French Guyana","",2010,0.195710688486044
+"French Guyana","",2011,0.195844291501058
+"French Guyana","",2012,0.19597835879948
+"French Guyana","",2013,0.196112720722893
+"French Guyana","",2014,0.196247377282938
+"French Guyana","",2015,0.196382329931286
+"French Guyana","",2016,0.196538359272534
+"French Guyana","",2017,0.196694770159083
+"French Guyana","",2018,0.196851564476574
+"French Guyana","",2019,0.197008744121447
+"French Guyana","",2020,0.197166309543737
 "French Polynesia","PYF",1990,0.00340923600864578
 "French Polynesia","PYF",1991,0.00342529877355494
 "French Polynesia","PYF",1992,0.00344142119896505
@@ -3186,6 +3628,37 @@
 "Kyrgyzstan","KGZ",2018,0.0317026545654819
 "Kyrgyzstan","KGZ",2019,0.0320544113707876
 "Kyrgyzstan","KGZ",2020,0.0324070325256179
+"Land Locked Developing Countries","",1990,6.39764699973942
+"Land Locked Developing Countries","",1991,6.38518542506875
+"Land Locked Developing Countries","",1992,6.70464520831935
+"Land Locked Developing Countries","",1993,7.14596483290079
+"Land Locked Developing Countries","",1994,7.13441988085524
+"Land Locked Developing Countries","",1995,7.12283180818108
+"Land Locked Developing Countries","",1996,7.11120037284169
+"Land Locked Developing Countries","",1997,7.09952533098564
+"Land Locked Developing Countries","",1998,7.08780643692965
+"Land Locked Developing Countries","",1999,7.07604344314136
+"Land Locked Developing Countries","",2000,7.06423610022192
+"Land Locked Developing Countries","",2001,7.04750270827383
+"Land Locked Developing Countries","",2002,7.03072756733374
+"Land Locked Developing Countries","",2003,7.01391055221724
+"Land Locked Developing Countries","",2004,6.99705148167803
+"Land Locked Developing Countries","",2005,6.98015018087027
+"Land Locked Developing Countries","",2006,6.96320650062188
+"Land Locked Developing Countries","",2007,6.94622031290919
+"Land Locked Developing Countries","",2008,6.92919141635524
+"Land Locked Developing Countries","",2009,6.91211965917083
+"Land Locked Developing Countries","",2010,6.89500491115352
+"Land Locked Developing Countries","",2011,6.87184063123239
+"Land Locked Developing Countries","",2012,7.02330591951633
+"Land Locked Developing Countries","",2013,7.00023762902091
+"Land Locked Developing Countries","",2014,6.97711862909971
+"Land Locked Developing Countries","",2015,6.95394881867067
+"Land Locked Developing Countries","",2016,6.93343661225852
+"Land Locked Developing Countries","",2017,6.91287414147197
+"Land Locked Developing Countries","",2018,6.89226126314839
+"Land Locked Developing Countries","",2019,6.87159783321977
+"Land Locked Developing Countries","",2020,6.85088358215923
 "Laos","LAO",1990,0.421179797149254
 "Laos","LAO",1991,0.420972014524835
 "Laos","LAO",1992,0.420763460151871
@@ -3246,6 +3719,37 @@
 "Latvia","LVA",2018,0.0836354520315974
 "Latvia","LVA",2019,0.0838333196593475
 "Latvia","LVA",2020,0.0840316733324607
+"Least Developed Countries","",1990,14.9583332725511
+"Least Developed Countries","",1991,14.9190745436859
+"Least Developed Countries","",1992,14.8796699996113
+"Least Developed Countries","",1993,14.8401188501694
+"Least Developed Countries","",1994,14.8004202279688
+"Least Developed Countries","",1995,14.7605733306141
+"Least Developed Countries","",1996,14.7205773258349
+"Least Developed Countries","",1997,14.6804313990351
+"Least Developed Countries","",1998,14.6401346576209
+"Least Developed Countries","",1999,14.599686274294
+"Least Developed Countries","",2000,14.5590853914684
+"Least Developed Countries","",2001,14.5031221195789
+"Least Developed Countries","",2002,14.4470192808449
+"Least Developed Countries","",2003,14.3907763172388
+"Least Developed Countries","",2004,14.3343927031312
+"Least Developed Countries","",2005,14.2778678757077
+"Least Developed Countries","",2006,14.2212013732578
+"Least Developed Countries","",2007,14.1643926275595
+"Least Developed Countries","",2008,14.1074410680859
+"Least Developed Countries","",2009,14.0503462245143
+"Least Developed Countries","",2010,13.9931075208075
+"Least Developed Countries","",2011,13.9127101085039
+"Least Developed Countries","",2012,13.8321487323132
+"Least Developed Countries","",2013,13.7514106611855
+"Least Developed Countries","",2014,13.6704951965866
+"Least Developed Countries","",2015,13.5894018362698
+"Least Developed Countries","",2016,13.5112438156294
+"Least Developed Countries","",2017,13.4328943969728
+"Least Developed Countries","",2018,13.3543529098988
+"Least Developed Countries","",2019,13.2756186799432
+"Least Developed Countries","",2020,13.1966909310108
 "Lebanon","LBN",1990,0.00329758547675563
 "Lebanon","LBN",1991,0.00330010351453339
 "Lebanon","LBN",1992,0.0033026309048352
@@ -3430,6 +3934,37 @@
 "Lithuania","LTU",2018,0.0539555020908212
 "Lithuania","LTU",2019,0.054090616531993
 "Lithuania","LTU",2020,0.0542260628783202
+"Low Income Food Deficit Countries","",1990,14.3355777639558
+"Low Income Food Deficit Countries","",1991,14.3099928214211
+"Low Income Food Deficit Countries","",1992,14.3834777106199
+"Low Income Food Deficit Countries","",1993,14.3589751696677
+"Low Income Food Deficit Countries","",1994,14.3343812818224
+"Low Income Food Deficit Countries","",1995,14.3096955353103
+"Low Income Food Deficit Countries","",1996,14.2849174145275
+"Low Income Food Deficit Countries","",1997,14.2600464000041
+"Low Income Food Deficit Countries","",1998,14.2350819683679
+"Low Income Food Deficit Countries","",1999,14.2100235923077
+"Low Income Food Deficit Countries","",2000,14.1848707405361
+"Low Income Food Deficit Countries","",2001,14.1497566559809
+"Low Income Food Deficit Countries","",2002,14.1145550125596
+"Low Income Food Deficit Countries","",2003,14.079265447994
+"Low Income Food Deficit Countries","",2004,14.0438876324786
+"Low Income Food Deficit Countries","",2005,14.0084212006558
+"Low Income Food Deficit Countries","",2006,13.9728658872519
+"Low Income Food Deficit Countries","",2007,13.9372212992706
+"Low Income Food Deficit Countries","",2008,13.9014871149603
+"Low Income Food Deficit Countries","",2009,13.8656630395052
+"Low Income Food Deficit Countries","",2010,13.8297486992204
+"Low Income Food Deficit Countries","",2011,13.7865625125059
+"Low Income Food Deficit Countries","",2012,13.7432937713426
+"Low Income Food Deficit Countries","",2013,13.6999301557639
+"Low Income Food Deficit Countries","",2014,13.6564712371478
+"Low Income Food Deficit Countries","",2015,13.612916783786
+"Low Income Food Deficit Countries","",2016,13.5675222114846
+"Low Income Food Deficit Countries","",2017,13.5220164602099
+"Low Income Food Deficit Countries","",2018,13.4763991545959
+"Low Income Food Deficit Countries","",2019,13.4306699169856
+"Low Income Food Deficit Countries","",2020,13.3848282684856
 "Luxembourg","LUX",2000,0.00208511245292841
 "Luxembourg","LUX",2001,0.00209252583363406
 "Luxembourg","LUX",2002,0.00209995771225226
@@ -3822,6 +4357,68 @@
 "Mexico","MEX",2018,1.62076911594728
 "Mexico","MEX",2019,1.61961425265255
 "Mexico","MEX",2020,1.6184565473365
+"Micronesia","",1990,0.00401092143314472
+"Micronesia","",1991,0.00150423498977011
+"Micronesia","",1992,0.00150769190120299
+"Micronesia","",1993,0.001511161676224
+"Micronesia","",1994,0.00151464438676743
+"Micronesia","",1995,0.00151814010530494
+"Micronesia","",1996,0.00152164890485056
+"Micronesia","",1997,0.0015251708589658
+"Micronesia","",1998,0.00152870604176475
+"Micronesia","",1999,0.00153225452791931
+"Micronesia","",2000,0.00153581639266445
+"Micronesia","",2001,0.00153837972305384
+"Micronesia","",2002,0.00154094945144536
+"Micronesia","",2003,0.00154352559810144
+"Micronesia","",2004,0.00154610818709797
+"Micronesia","",2005,0.00154869723888349
+"Micronesia","",2006,0.00155129278526054
+"Micronesia","",2007,0.00155389484693203
+"Micronesia","",2008,0.00155650344467966
+"Micronesia","",2009,0.0015591186107406
+"Micronesia","",2010,0.00156174036615567
+"Micronesia","",2011,0.00156413111264812
+"Micronesia","",2012,0.00156652846709217
+"Micronesia","",2013,0.00156893108520418
+"Micronesia","",2014,0.0015713389766568
+"Micronesia","",2015,0.00157375216267877
+"Micronesia","",2016,0.0015764119194648
+"Micronesia","",2017,0.00157907818462348
+"Micronesia","",2018,0.00158175098595484
+"Micronesia","",2019,0.00158443035142163
+"Micronesia","",2020,0.00158711629741999
+"Middle Africa","",1990,7.81693392617358
+"Middle Africa","",1991,7.80746999624317
+"Middle Africa","",1992,7.79797091527844
+"Middle Africa","",1993,7.78843648707748
+"Middle Africa","",1994,7.77886651397546
+"Middle Africa","",1995,7.769260796831
+"Middle Africa","",1996,7.75961913501234
+"Middle Africa","",1997,7.74994132638338
+"Middle Africa","",1998,7.74022716728954
+"Middle Africa","",1999,7.73047645254348
+"Middle Africa","",2000,7.72068897541066
+"Middle Africa","",2001,7.69574019411151
+"Middle Africa","",2002,7.6707291959944
+"Middle Africa","",2003,7.64565572932859
+"Middle Africa","",2004,7.62051955978524
+"Middle Africa","",2005,7.59532043348112
+"Middle Africa","",2006,7.57005815053305
+"Middle Africa","",2007,7.54473245465083
+"Middle Africa","",2008,7.51934308850175
+"Middle Africa","",2009,7.49388984838568
+"Middle Africa","",2010,7.46837247451722
+"Middle Africa","",2011,7.4301396763135
+"Middle Africa","",2012,7.39182963027409
+"Middle Africa","",2013,7.35343554933769
+"Middle Africa","",2014,7.31495712057301
+"Middle Africa","",2015,7.27639408387898
+"Middle Africa","",2016,7.23889363498656
+"Middle Africa","",2017,7.20130135090519
+"Middle Africa","",2018,7.16361691182595
+"Middle Africa","",2019,7.12583999599953
+"Middle Africa","",2020,7.08797022733416
 "Moldova","MDA",1992,0.00779955015833845
 "Moldova","MDA",1993,0.00785916108001014
 "Moldova","MDA",1994,0.00791899423465353
@@ -4145,6 +4742,37 @@
 "Nepal","NPL",2018,0.146526520055816
 "Nepal","NPL",2019,0.146706340861723
 "Nepal","NPL",2020,0.146886603208738
+"Net Food Importing Developing Countries","",1990,20.4404989506951
+"Net Food Importing Developing Countries","",1991,20.3905533739941
+"Net Food Importing Developing Countries","",1992,20.340422288874
+"Net Food Importing Developing Countries","",1993,20.2901046598856
+"Net Food Importing Developing Countries","",1994,20.2395994438593
+"Net Food Importing Developing Countries","",1995,20.1889055898331
+"Net Food Importing Developing Countries","",1996,20.1380220151098
+"Net Food Importing Developing Countries","",1997,20.0869477006176
+"Net Food Importing Developing Countries","",1998,20.0356815477509
+"Net Food Importing Developing Countries","",1999,19.9842224736404
+"Net Food Importing Developing Countries","",2000,19.9325693872515
+"Net Food Importing Developing Countries","",2001,19.8681610961233
+"Net Food Importing Developing Countries","",2002,19.8035921606597
+"Net Food Importing Developing Countries","",2003,19.738861979175
+"Net Food Importing Developing Countries","",2004,19.6739699226415
+"Net Food Importing Developing Countries","",2005,19.6089153114269
+"Net Food Importing Developing Countries","",2006,19.5436976778822
+"Net Food Importing Developing Countries","",2007,19.4783163119307
+"Net Food Importing Developing Countries","",2008,19.4127705977267
+"Net Food Importing Developing Countries","",2009,19.3470599608444
+"Net Food Importing Developing Countries","",2010,19.2811837792283
+"Net Food Importing Developing Countries","",2011,19.1904231624614
+"Net Food Importing Developing Countries","",2012,19.0994805029807
+"Net Food Importing Developing Countries","",2013,19.0083383847031
+"Net Food Importing Developing Countries","",2014,18.9169960083533
+"Net Food Importing Developing Countries","",2015,18.8254528091694
+"Net Food Importing Developing Countries","",2016,18.7391386260701
+"Net Food Importing Developing Countries","",2017,18.6526130622864
+"Net Food Importing Developing Countries","",2018,18.5658753868064
+"Net Food Importing Developing Countries","",2019,18.4789248641769
+"Net Food Importing Developing Countries","",2020,18.3917606185354
 "Netherlands","NLD",1990,0.00815143301852557
 "Netherlands","NLD",1991,0.00820005298072282
 "Netherlands","NLD",1992,0.00824885352772706
@@ -4453,6 +5081,99 @@
 "North Macedonia","MKD",2018,0.0245435355675535
 "North Macedonia","MKD",2019,0.024608548383397
 "North Macedonia","MKD",2020,0.0246737209050472
+"Northern Africa","",1990,0.931195812934156
+"Northern Africa","",1991,0.928742256857097
+"Northern Africa","",1992,0.926279587754634
+"Northern Africa","",1993,0.923807754760753
+"Northern Africa","",1994,0.921326706630176
+"Northern Africa","",1995,0.918836394117339
+"Northern Africa","",1996,0.916336760447196
+"Northern Africa","",1997,0.91382775559335
+"Northern Africa","",1998,0.911309326757658
+"Northern Africa","",1999,0.908781420744604
+"Northern Africa","",2000,0.906243983957554
+"Northern Africa","",2001,0.904444446611617
+"Northern Africa","",2002,0.9026404224544
+"Northern Africa","",2003,0.900831892488562
+"Northern Africa","",2004,0.899018839812144
+"Northern Africa","",2005,0.897201245267289
+"Northern Africa","",2006,0.895379096126424
+"Northern Africa","",2007,0.893552373059135
+"Northern Africa","",2008,0.891721056655572
+"Northern Africa","",2009,0.889885133919212
+"Northern Africa","",2010,0.888044585264357
+"Northern Africa","",2011,0.8849537781313
+"Northern Africa","",2012,0.707182681166506
+"Northern Africa","",2013,0.703887466432745
+"Northern Africa","",2014,0.700585012274737
+"Northern Africa","",2015,0.697275296546623
+"Northern Africa","",2016,0.694229744468727
+"Northern Africa","",2017,0.691176733849755
+"Northern Africa","",2018,0.688116238977191
+"Northern Africa","",2019,0.685048233982217
+"Northern Africa","",2020,0.68197268779803
+"Northern America","",1990,15.3602345871622
+"Northern America","",1991,15.3901612224296
+"Northern America","",1992,15.4201990115402
+"Northern America","",1993,15.4503485749194
+"Northern America","",1994,15.4806105376187
+"Northern America","",1995,15.5109855293587
+"Northern America","",1996,15.5414741845728
+"Northern America","",1997,15.5720771424514
+"Northern America","",1998,15.6027950469867
+"Northern America","",1999,15.6336285470176
+"Northern America","",2000,15.6645782962756
+"Northern America","",2001,15.6954188986892
+"Northern America","",2002,15.7263364716145
+"Northern America","",2003,15.7573312656046
+"Northern America","",2004,15.7884035703275
+"Northern America","",2005,15.8195536386176
+"Northern America","",2006,15.8507818394969
+"Northern America","",2007,15.8820884288516
+"Northern America","",2008,15.9134736635505
+"Northern America","",2009,15.9449379177931
+"Northern America","",2010,15.9764814515569
+"Northern America","",2011,15.9996523502967
+"Northern America","",2012,16.0228880289012
+"Northern America","",2013,16.0461747261675
+"Northern America","",2014,16.0695125317439
+"Northern America","",2015,16.0929016534334
+"Northern America","",2016,16.1101873587876
+"Northern America","",2017,16.1275153475268
+"Northern America","",2018,16.1448858146841
+"Northern America","",2019,16.1622989564212
+"Northern America","",2020,16.1797548504493
+"Northern Europe","",1990,1.55467157604205
+"Northern Europe","",1991,1.56003402482683
+"Northern Europe","",1992,1.7397713543391
+"Northern Europe","",1993,1.74591588582721
+"Northern Europe","",1994,1.75208332448491
+"Northern Europe","",1995,1.75827379865031
+"Northern Europe","",1996,1.76448743762201
+"Northern Europe","",1997,1.7707243716681
+"Northern Europe","",1998,1.77698473203523
+"Northern Europe","",1999,1.78326865095788
+"Northern Europe","",2000,1.78957626166764
+"Northern Europe","",2001,1.79252399274108
+"Northern Europe","",2002,1.7954790813267
+"Northern Europe","",2003,1.79844155066916
+"Northern Europe","",2004,1.80141142845476
+"Northern Europe","",2005,1.80438873814182
+"Northern Europe","",2006,1.80737351641544
+"Northern Europe","",2007,1.8103657870265
+"Northern Europe","",2008,1.8133655738162
+"Northern Europe","",2009,1.81637291396987
+"Northern Europe","",2010,1.81938783162676
+"Northern Europe","",2011,1.82335872252923
+"Northern Europe","",2012,1.82733991019188
+"Northern Europe","",2013,1.83132983711943
+"Northern Europe","",2014,1.8353285231556
+"Northern Europe","",2015,1.83933600166477
+"Northern Europe","",2016,1.84236481950302
+"Northern Europe","",2017,1.84540104868318
+"Northern Europe","",2018,1.84844472097834
+"Northern Europe","",2019,1.85149586834748
+"Northern Europe","",2020,1.8545545092296
 "Northern Mariana Islands","MNP",1991,0.000790924714389093
 "Northern Mariana Islands","MNP",1992,0.000788484293042235
 "Northern Mariana Islands","MNP",1993,0.000786034790590564
@@ -4514,6 +5235,37 @@
 "Norway","NOR",2018,0.298959783927114
 "Norway","NOR",2019,0.29951860729266
 "Norway","NOR",2020,0.300078803206697
+"Oceania","",1990,4.36627486205364
+"Oceania","",1991,4.37047624969433
+"Oceania","",1992,4.37469321848352
+"Oceania","",1993,4.37892590286326
+"Oceania","",1994,4.38317436693574
+"Oceania","",1995,4.387438675282
+"Oceania","",1996,4.39171896457564
+"Oceania","",1997,4.39601527685707
+"Oceania","",1998,4.40032775032016
+"Oceania","",1999,4.40465645218538
+"Oceania","",2000,4.40900145018008
+"Oceania","",2001,4.40892315622679
+"Oceania","",2002,4.40884467759702
+"Oceania","",2003,4.40876600295565
+"Oceania","",2004,4.40868713156739
+"Oceania","",2005,4.40860805202434
+"Oceania","",2006,4.40852878490858
+"Oceania","",2007,4.40844931881791
+"Oceania","",2008,4.40836964229359
+"Oceania","",2009,4.40828975166356
+"Oceania","",2010,4.40820968408827
+"Oceania","",2011,4.42970595527233
+"Oceania","",2012,4.45125322472616
+"Oceania","",2013,4.4728477557349
+"Oceania","",2014,4.49448970664002
+"Oceania","",2015,4.51617924474431
+"Oceania","",2016,4.52568820101083
+"Oceania","",2017,4.53522042823182
+"Oceania","",2018,4.54477599850071
+"Oceania","",2019,4.55435505817911
+"Oceania","",2020,4.56395764679888
 "Oman","OMN",1990,7.08142908394194e-05
 "Oman","OMN",1991,7.09455566801399e-05
 "Oman","OMN",1992,7.1077310069913e-05
@@ -5466,6 +6218,16 @@
 "Sint Maarten (Dutch part)","SXM",2018,9.09334780614186e-06
 "Sint Maarten (Dutch part)","SXM",2019,9.10450737732573e-06
 "Sint Maarten (Dutch part)","SXM",2020,9.11569435028555e-06
+"Sint Maarten (French part)","",2011,3.02304089853747e-05
+"Sint Maarten (French part)","",2012,3.02635356494297e-05
+"Sint Maarten (French part)","",2013,3.02967350679475e-05
+"Sint Maarten (French part)","",2014,3.03300073324994e-05
+"Sint Maarten (French part)","",2015,3.03633527574557e-05
+"Sint Maarten (French part)","",2016,3.04004786957441e-05
+"Sint Maarten (French part)","",2017,3.0437695459865e-05
+"Sint Maarten (French part)","",2018,3.04750034584214e-05
+"Sint Maarten (French part)","",2019,3.05124031023889e-05
+"Sint Maarten (French part)","",2020,3.05498945793354e-05
 "Slovakia","SVK",1993,0.0451506311712202
 "Slovakia","SVK",1994,0.0452322487147484
 "Slovakia","SVK",1995,0.0453141711014469
@@ -5523,6 +6285,37 @@
 "Slovenia","SVN",2018,0.0305216498750053
 "Slovenia","SVN",2019,0.0305090565807584
 "Slovenia","SVN",2020,0.0304964322638215
+"Small Island Developing States","",1990,2.04202796294889
+"Small Island Developing States","",1991,2.05042052470279
+"Small Island Developing States","",1992,2.05541501491685
+"Small Island Developing States","",1993,2.06042809023679
+"Small Island Developing States","",1994,2.06545985221406
+"Small Island Developing States","",1995,2.07051041030626
+"Small Island Developing States","",1996,2.07557986762924
+"Small Island Developing States","",1997,2.08066833046348
+"Small Island Developing States","",1998,2.08577590588783
+"Small Island Developing States","",1999,2.09090269938662
+"Small Island Developing States","",2000,2.09604882445448
+"Small Island Developing States","",2001,2.0995974223501
+"Small Island Developing States","",2002,2.10315487737589
+"Small Island Developing States","",2003,2.10672121765493
+"Small Island Developing States","",2004,2.11029647651714
+"Small Island Developing States","",2005,2.11388068234369
+"Small Island Developing States","",2006,2.11747387901553
+"Small Island Developing States","",2007,2.12107609526587
+"Small Island Developing States","",2008,2.12468735993737
+"Small Island Developing States","",2009,2.12830771751211
+"Small Island Developing States","",2010,2.13193719719135
+"Small Island Developing States","",2011,2.13399619031023
+"Small Island Developing States","",2012,2.13605082522609
+"Small Island Developing States","",2013,2.13810997326836
+"Small Island Developing States","",2014,2.14017364129767
+"Small Island Developing States","",2015,2.14224184455527
+"Small Island Developing States","",2016,2.14363453913514
+"Small Island Developing States","",2017,2.14503064083026
+"Small Island Developing States","",2018,2.14643016251867
+"Small Island Developing States","",2019,2.14783312699813
+"Small Island Developing States","",2020,2.14923953145223
 "Solomon Islands","SLB",1990,0.0600719989667156
 "Solomon Islands","SLB",1991,0.0601660651496405
 "Solomon Islands","SLB",1992,0.0602604807142333
@@ -5616,6 +6409,37 @@
 "South Africa","ZAF",2018,0.420822687071104
 "South Africa","ZAF",2019,0.420443443939466
 "South Africa","ZAF",2020,0.420063267796919
+"South America","",1990,22.9831628495805
+"South America","",1991,22.905108215587
+"South America","",1992,22.8267636701995
+"South America","",1993,22.7481275952248
+"South America","",1994,22.6691983604039
+"South America","",1995,22.5899743232999
+"South America","",1996,22.5104538291841
+"South America","",1997,22.4306352109201
+"South America","",1998,22.3505167888481
+"South America","",1999,22.2700968706666
+"South America","",2000,22.1893737513135
+"South America","",2001,22.0906193716338
+"South America","",2002,21.9916186998915
+"South America","",2003,21.8923707597973
+"South America","",2004,21.7928746238108
+"South America","",2005,21.6931293072484
+"South America","",2006,21.5931339784232
+"South America","",2007,21.4928876430989
+"South America","",2008,21.3923893030144
+"South America","",2009,21.2916381112215
+"South America","",2010,21.1906330597252
+"South America","",2011,21.1476638823688
+"South America","",2012,21.1046191000163
+"South America","",2013,21.0614799281711
+"South America","",2014,21.0182459527167
+"South America","",2015,20.9749169126441
+"South America","",2016,20.939749551148
+"South America","",2017,20.9044960332454
+"South America","",2018,20.8691560936755
+"South America","",2019,20.833729465528
+"South America","",2020,20.7982157265087
 "South Korea","KOR",1990,0.154634806429679
 "South Korea","KOR",1991,0.154744083378832
 "South Korea","KOR",1992,0.15485376620565
@@ -5656,6 +6480,130 @@
 "South Sudan","SSD",2018,0.175894838509614
 "South Sudan","SSD",2019,0.176110700809514
 "South Sudan","SSD",2020,0.176327093148632
+"Southeastern Asia","",1990,5.78638835649525
+"Southeastern Asia","",1991,5.74594718245669
+"Southeastern Asia","",1992,5.70535577766509
+"Southeastern Asia","",1993,5.66461335105312
+"Southeastern Asia","",1994,5.62371903431285
+"Southeastern Asia","",1995,5.58267195265008
+"Southeastern Asia","",1996,5.54147129633287
+"Southeastern Asia","",1997,5.5001161778144
+"Southeastern Asia","",1998,5.45860570288049
+"Southeastern Asia","",1999,5.41693904260031
+"Southeastern Asia","",2000,5.37511528964333
+"Southeastern Asia","",2001,5.371483956112
+"Southeastern Asia","",2002,5.36784360118667
+"Southeastern Asia","",2003,5.36419415395371
+"Southeastern Asia","",2004,5.36053555613649
+"Southeastern Asia","",2005,5.35686780880363
+"Southeastern Asia","",2006,5.35319087928623
+"Southeastern Asia","",2007,5.3495046957446
+"Southeastern Asia","",2008,5.34580925888829
+"Southeastern Asia","",2009,5.34210453547952
+"Southeastern Asia","",2010,5.3383904530395
+"Southeastern Asia","",2011,5.31180352047984
+"Southeastern Asia","",2012,5.28516297265395
+"Southeastern Asia","",2013,5.25846398788115
+"Southeastern Asia","",2014,5.2317063478433
+"Southeastern Asia","",2015,5.2048898720216
+"Southeastern Asia","",2016,5.18632262163804
+"Southeastern Asia","",2017,5.167709897814
+"Southeastern Asia","",2018,5.14905154612866
+"Southeastern Asia","",2019,5.13034738661292
+"Southeastern Asia","",2020,5.1115972743591
+"Southern Africa","",1990,1.09079076151663
+"Southern Africa","",1991,1.08750375535524
+"Southern Africa","",1992,1.08420454055883
+"Southern Africa","",1993,1.08089304898267
+"Southern Africa","",1994,1.07756921197394
+"Southern Africa","",1995,1.07423296036699
+"Southern Africa","",1996,1.07088422447851
+"Southern Africa","",1997,1.06752293410273
+"Southern Africa","",1998,1.06414901850646
+"Southern Africa","",1999,1.06076240642417
+"Southern Africa","",2000,1.05736302605295
+"Southern Africa","",2001,1.05327443390825
+"Southern Africa","",2002,1.04917564520544
+"Southern Africa","",2003,1.045066619191
+"Southern Africa","",2004,1.04094731746326
+"Southern Africa","",2005,1.03681769891909
+"Southern Africa","",2006,1.03267772979614
+"Southern Africa","",2007,1.0285273685962
+"Southern Africa","",2008,1.02436657365274
+"Southern Africa","",2009,1.02019531057409
+"Southern Africa","",2010,1.01601353729115
+"Southern Africa","",2011,1.01165176260777
+"Southern Africa","",2012,1.00728131881537
+"Southern Africa","",2013,1.00290128864866
+"Southern Africa","",2014,0.998511635607113
+"Southern Africa","",2015,0.994112330418471
+"Southern Africa","",2016,0.98982394479681
+"Southern Africa","",2017,0.985525056911065
+"Southern Africa","",2018,0.981215630586019
+"Southern Africa","",2019,0.97689562942651
+"Southern Africa","",2020,0.972565009627491
+"Southern Asia","",1990,2.16360059435095
+"Southern Asia","",1991,2.17577275313335
+"Southern Asia","",1992,2.18799012188394
+"Southern Asia","",1993,2.20025295295041
+"Southern Asia","",1994,2.21256150056199
+"Southern Asia","",1995,2.224916020847
+"Southern Asia","",1996,2.23731677423761
+"Southern Asia","",1997,2.24976401594438
+"Southern Asia","",1998,2.26225801028285
+"Southern Asia","",1999,2.27479902115744
+"Southern Asia","",2000,2.28738731446251
+"Southern Asia","",2001,2.29755590935857
+"Southern Asia","",2002,2.30774987561367
+"Southern Asia","",2003,2.31796930275899
+"Southern Asia","",2004,2.32821428630214
+"Southern Asia","",2005,2.33848491656978
+"Southern Asia","",2006,2.34878130131546
+"Southern Asia","",2007,2.35910353186332
+"Southern Asia","",2008,2.36945169989641
+"Southern Asia","",2009,2.37982591239079
+"Southern Asia","",2010,2.39022626690708
+"Southern Asia","",2011,2.39869654277851
+"Southern Asia","",2012,2.40718747647254
+"Southern Asia","",2013,2.41569704531531
+"Southern Asia","",2014,2.42422529890632
+"Southern Asia","",2015,2.43277230476712
+"Southern Asia","",2016,2.44152932510834
+"Southern Asia","",2017,2.45030778045352
+"Southern Asia","",2018,2.45910775560132
+"Southern Asia","",2019,2.4679293358532
+"Southern Asia","",2020,2.47677258871093
+"Southern Europe","",1990,0.899273299498549
+"Southern Europe","",1991,0.911126018717003
+"Southern Europe","",1992,0.923022759068408
+"Southern Europe","",1993,0.934963771012055
+"Southern Europe","",1994,0.946949297362386
+"Southern Europe","",1995,0.958979592277743
+"Southern Europe","",1996,0.971054904657673
+"Southern Europe","",1997,0.983175485267978
+"Southern Europe","",1998,0.995341593946071
+"Southern Europe","",1999,1.00755348288317
+"Southern Europe","",2000,1.01981141579203
+"Southern Europe","",2001,1.02804669443706
+"Southern Europe","",2002,1.03630252108458
+"Southern Europe","",2003,1.04457896542718
+"Southern Europe","",2004,1.05287610963892
+"Southern Europe","",2005,1.06119402405713
+"Southern Europe","",2006,1.06953279433481
+"Southern Europe","",2007,1.0778924988717
+"Southern Europe","",2008,1.08627320909304
+"Southern Europe","",2009,1.09467501441807
+"Southern Europe","",2010,1.10309798708032
+"Southern Europe","",2011,1.10646613698683
+"Southern Europe","",2012,1.10984263508158
+"Southern Europe","",2013,1.11322654398795
+"Southern Europe","",2014,1.11661788268435
+"Southern Europe","",2015,1.12001667839378
+"Southern Europe","",2016,1.12302590752821
+"Southern Europe","",2017,1.12604250180861
+"Southern Europe","",2018,1.12906649107035
+"Southern Europe","",2019,1.132097905325
+"Southern Europe","",2020,1.13513676637166
 "Spain","ESP",1990,0.328216212421081
 "Spain","ESP",1991,0.336366765901133
 "Spain","ESP",1992,0.344547592258017
@@ -6618,6 +7566,130 @@
 "Vietnam","VNM",2018,0.354163728941871
 "Vietnam","VNM",2019,0.357458806398
 "Vietnam","VNM",2020,0.360761980496548
+"Wallis and Futuna Islands","",1990,0.000136907628956211
+"Wallis and Futuna Islands","",1991,0.000137185058100497
+"Wallis and Futuna Islands","",1992,0.000137463517675212
+"Wallis and Futuna Islands","",1993,0.00013774301343189
+"Wallis and Futuna Islands","",1994,0.000138023551164952
+"Wallis and Futuna Islands","",1995,0.000138305136712102
+"Wallis and Futuna Islands","",1996,0.000138587775954733
+"Wallis and Futuna Islands","",1997,0.000138871474818339
+"Wallis and Futuna Islands","",1998,0.000139156239272924
+"Wallis and Futuna Islands","",1999,0.000139442075333426
+"Wallis and Futuna Islands","",2000,0.000139728989060139
+"Wallis and Futuna Islands","",2001,0.000139927130256013
+"Wallis and Futuna Islands","",2002,0.000140125766057521
+"Wallis and Futuna Islands","",2003,0.000140324897980383
+"Wallis and Futuna Islands","",2004,0.000140524527885624
+"Wallis and Futuna Islands","",2005,0.000140724657303031
+"Wallis and Futuna Islands","",2006,0.000140925288792529
+"Wallis and Futuna Islands","",2007,0.00014112642390363
+"Wallis and Futuna Islands","",2008,0.000141328064191683
+"Wallis and Futuna Islands","",2009,0.00014153021225059
+"Wallis and Futuna Islands","",2010,0.000141732869655793
+"Wallis and Futuna Islands","",2011,0.000141936646058751
+"Wallis and Futuna Islands","",2012,0.000142140993243773
+"Wallis and Futuna Islands","",2013,0.000142345789117631
+"Wallis and Futuna Islands","",2014,0.000142551034462747
+"Wallis and Futuna Islands","",2015,0.000142756731109651
+"Wallis and Futuna Islands","",2016,0.000142931282900152
+"Wallis and Futuna Islands","",2017,0.000143106261718559
+"Wallis and Futuna Islands","",2018,0.000143281669485965
+"Wallis and Futuna Islands","",2019,0.000143457508134619
+"Wallis and Futuna Islands","",2020,0.000143633778546391
+"Western Africa","",1990,2.47444322865749
+"Western Africa","",1991,2.45811521545635
+"Western Africa","",1992,2.44172658025852
+"Western Africa","",1993,2.42527693721823
+"Western Africa","",1994,2.40876599273584
+"Western Africa","",1995,2.39219335571783
+"Western Africa","",1996,2.37555871330087
+"Western Africa","",1997,2.35886170722966
+"Western Africa","",1998,2.34210198614145
+"Western Africa","",1999,2.32527919602899
+"Western Africa","",2000,2.30839298021568
+"Western Africa","",2001,2.29619598669197
+"Western Africa","",2002,2.28396857299245
+"Western Africa","",2003,2.27171061957657
+"Western Africa","",2004,2.25942201188532
+"Western Africa","",2005,2.2471026293479
+"Western Africa","",2006,2.23475236715353
+"Western Africa","",2007,2.22237110355026
+"Western Africa","",2008,2.20995871629431
+"Western Africa","",2009,2.19751509868213
+"Western Africa","",2010,2.18504012726638
+"Western Africa","",2011,2.1740361475971
+"Western Africa","",2012,2.16300996595801
+"Western Africa","",2013,2.15195959795509
+"Western Africa","",2014,2.14088495334867
+"Western Africa","",2015,2.12978595736464
+"Western Africa","",2016,2.11964577146478
+"Western Africa","",2017,2.1094807527736
+"Western Africa","",2018,2.09929081521145
+"Western Africa","",2019,2.089075872176
+"Western Africa","",2020,2.07883582117344
+"Western Asia","",1990,0.549439112812882
+"Western Asia","",1991,0.55172238158
+"Western Asia","",1992,0.649767303311503
+"Western Asia","",1993,0.652361308208277
+"Western Asia","",1994,0.654964983705682
+"Western Asia","",1995,0.657578383983553
+"Western Asia","",1996,0.660201563627204
+"Western Asia","",1997,0.662834577631234
+"Western Asia","",1998,0.665477481403367
+"Western Asia","",1999,0.668130330768341
+"Western Asia","",2000,0.670793181971838
+"Western Asia","",2001,0.674321903940374
+"Western Asia","",2002,0.677859427610789
+"Western Asia","",2003,0.681405789167033
+"Western Asia","",2004,0.68496101692733
+"Western Asia","",2005,0.688525147365578
+"Western Asia","",2006,0.692098214865735
+"Western Asia","",2007,0.69568024899039
+"Western Asia","",2008,0.699271286703433
+"Western Asia","",2009,0.70287136051952
+"Western Asia","",2010,0.706480507767016
+"Western Asia","",2011,0.710352763152632
+"Western Asia","",2012,0.714234121581939
+"Western Asia","",2013,0.718123999972577
+"Western Asia","",2014,0.72202242044529
+"Western Asia","",2015,0.725929412923007
+"Western Asia","",2016,0.729858605363232
+"Western Asia","",2017,0.733797416385079
+"Western Asia","",2018,0.737745883141613
+"Western Asia","",2019,0.741704043007094
+"Western Asia","",2020,0.745671928067238
+"Western Europe","",1990,0.750164108578306
+"Western Europe","",1991,0.753958106407566
+"Western Europe","",1992,0.757766195945966
+"Western Europe","",1993,0.761588455848955
+"Western Europe","",1994,0.765424965358443
+"Western Europe","",1995,0.769275804308281
+"Western Europe","",1996,0.773141053129799
+"Western Europe","",1997,0.777020792857402
+"Western Europe","",1998,0.78091510513424
+"Western Europe","",1999,0.784824072217927
+"Western Europe","",2000,0.788747776986338
+"Western Europe","",2001,0.792832150279667
+"Western Europe","",2002,0.796926714057995
+"Western Europe","",2003,0.801031507009574
+"Western Europe","",2004,0.805146562671555
+"Western Europe","",2005,0.809271920050661
+"Western Europe","",2006,0.813407621798861
+"Western Europe","",2007,0.817553704912164
+"Western Europe","",2008,0.821710208961462
+"Western Europe","",2009,0.825877172405759
+"Western Europe","",2010,0.830054635220689
+"Western Europe","",2011,0.833171072019427
+"Western Europe","",2012,0.836295063673698
+"Western Europe","",2013,0.839425913910664
+"Western Europe","",2014,0.842563636336197
+"Western Europe","",2015,0.845708260561682
+"Western Europe","",2016,0.848982302542749
+"Western Europe","",2017,0.852264358719572
+"Western Europe","",2018,0.855554460640019
+"Western Europe","",2019,0.858852640039171
+"Western Europe","",2020,0.862158922468361
 "Western Sahara","ESH",1990,0.0156995282790993
 "Western Sahara","ESH",1991,0.0157385859424411
 "Western Sahara","ESH",1992,0.0157777886741927
