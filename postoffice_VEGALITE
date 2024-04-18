@@ -44,7 +44,7 @@
           "field": "duration_category",
           "type": "nominal",
           "scale": {
-            "domain": ["<=1", "1-50", "50-100", ">=100"],
+            "domain": ["<=1 years", "1-50 years", "50-100 years", ">=100 years"],
             "range": ["#2ca02c", "#1f77b4", "#ffbb78", "#ff7f0e"]
           }
         }
@@ -53,7 +53,7 @@
     {
       "vconcat": [
         {
-          "title": {"text": "America Post Office", "fontSize": 16},
+          "title": {"text": "American Post Office", "fontSize": 16},
           "width": 500,
           "height": 500,
           "layer": [
@@ -106,7 +106,8 @@
                     "field": "duration_category",
                     "type": "nominal"
                   },
-                  "value": "grey"
+                  "value": "grey",
+                  
                 }
               }
             }
