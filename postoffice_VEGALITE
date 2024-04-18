@@ -2,24 +2,44 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "hconcat": [
     {
-      
       "width": 500,
       "height": 600,
       "mark": "bar",
       "data": {
         "url": "https://raw.githubusercontent.com/Wenjie0325/forest-vis/main/postOffice_data_processed_sample.csv"
       },
-      "params": [{"name": "sport_selection", "select": {"type": "point", "toggle": false, "fields": ["duration_category"]}}],
-      "transform": [{"filter": {"param": "brush"}},{"filter":{"param": "pts"}},{"filter":{"param": "sport_selection"}}],
+      "params": [
+        {
+          "name": "sport_selection",
+          "select": {
+            "type": "point",
+            "toggle": false,
+            "fields": ["duration_category"]
+          }
+        },
+        {
+          "name": "county_selection",
+          "select": {"type": "interval", "resolve": "global"}
+        }
+      ],
+      "transform": [
+        {"filter": {"param": "brush"}},
+        {"filter": {"param": "pts"}},
+        {"filter": {"param": "sport_selection"}},
+        {"filter":{"param": "index"}}
+      ],
       "encoding": {
-        "y": {"field": "state", "type": "nominal"},
+        "y": {"field": "state", "type": "nominal","axis": {"title": "Count of Post Office", "titleFontSize": 14}},
         "x": {
           "aggregate": "count",
           "type": "quantitative",
-          "title": "Count of Post Office "
+          "axis": {"title": "State", "titleFontSize": 14}
         },
         "size": {"value": 10},
-        "color": {"field": "duration_category", "type": "nominal"}
+        "color": {"field": "duration_category", "type": "nominal",     "scale": {
+        "domain": ["<=1", "1-50", "50-100", ">=100"],
+        "range": ["#2ca02c", "#1f77b4",  "#ffbb78","#ff7f0e"]
+      }}
       }
     },
     {
@@ -52,13 +72,20 @@
                 },
                 {
                   "name": "pts",
-                  "select": {"type": "point", "fields": ["duration_category"],"resolve": "global"}
+                  "select": {
+                    "type": "point",
+                    "fields": ["duration_category"],
+                    "resolve": "global"
+                  }
                 }
               ],
               "mark": "point",
-              "transform": [{
-                "filter":{"param": "pts"}
-              }],
+              "transform": [
+                {"filter": {"param": "pts"}},
+                {"filter": {"param": "sport_selection"}},
+                {"filter": {"param": "county_selection"}},
+                {"filter":{"param": "index"}}
+              ],
               "encoding": {
                 "longitude": {"field": "longitude", "type": "quantitative"},
                 "latitude": {"field": "latitude", "type": "quantitative"},
@@ -83,16 +110,32 @@
           "data": {
             "url": "https://raw.githubusercontent.com/Wenjie0325/forest-vis/main/postOffice_data_processed_sample.csv"
           },
-          "transform": [{"filter": {"param": "brush"}},{"filter":{"param": "pts"}}],
+          "params": [{"name":"index",
+          "select": {
+            "type": "point",
+            "toggle": false,
+            "fields": ["duration_category"]
+          }}],
+          "transform": [
+            {"filter": {"param": "brush"}},
+            {"filter": {"param": "pts"}},
+            {"filter": {"param": "sport_selection"}},
+            {"filter":{"param": "county_selection"}},
+            {"filter": {"param": "brush"}},
+            {"filter":{"param": "index"}}
+          ],
           "encoding": {
-            "x": {"field": "state", "type": "nominal"},
-            "y": {"aggregate": "count", "type": "quantitative"},
+            "x": {"field": "stamp_index", "type": "nominal","axis": {"title": "Stamp Rarity", "titleFontSize": 14}},
+            "y": {
+              "aggregate": "count",
+              "type": "quantitative",
+              "axis": {"title": "Count of Post Office", "titleFontSize": 14}
+            },
             "size": {"value": 10},
             "color": {"field": "duration_category", "type": "nominal"}
           }
         }
       ]
-    },
-    
+    }
   ]
 }
