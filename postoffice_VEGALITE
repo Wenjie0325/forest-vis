@@ -3,7 +3,7 @@
   "hconcat": [
     {
       "width": 500,
-      "height": 600,
+      "height": 800,
       "mark": "bar",
       "data": {
         "url": "https://raw.githubusercontent.com/Wenjie0325/forest-vis/main/postOffice_data_processed_sample.csv"
@@ -26,27 +26,36 @@
         {"filter": {"param": "brush"}},
         {"filter": {"param": "pts"}},
         {"filter": {"param": "sport_selection"}},
-        {"filter":{"param": "index"}}
+        {"filter": {"param": "index"}}
       ],
       "encoding": {
-        "y": {"field": "state", "type": "nominal","axis": {"title": "Count of Post Office", "titleFontSize": 14}},
+        "y": {
+          "field": "state",
+          "type": "nominal",
+          "axis": {"title": "Count of Post Office", "titleFontSize": 14}
+        },
         "x": {
           "aggregate": "count",
           "type": "quantitative",
           "axis": {"title": "State", "titleFontSize": 14}
         },
         "size": {"value": 10},
-        "color": {"field": "duration_category", "type": "nominal",     "scale": {
-        "domain": ["<=1", "1-50", "50-100", ">=100"],
-        "range": ["#2ca02c", "#1f77b4",  "#ffbb78","#ff7f0e"]
-      }}
+        "color": {
+          "field": "duration_category",
+          "type": "nominal",
+          "scale": {
+            "domain": ["<=1", "1-50", "50-100", ">=100"],
+            "range": ["#2ca02c", "#1f77b4", "#ffbb78", "#ff7f0e"]
+          }
+        }
       }
     },
     {
       "vconcat": [
         {
+          "title": {"text": "America Post Office", "fontSize": 16},
           "width": 500,
-          "height": 600,
+          "height": 500,
           "layer": [
             {
               "data": {
@@ -84,7 +93,7 @@
                 {"filter": {"param": "pts"}},
                 {"filter": {"param": "sport_selection"}},
                 {"filter": {"param": "county_selection"}},
-                {"filter":{"param": "index"}}
+                {"filter": {"param": "index"}}
               ],
               "encoding": {
                 "longitude": {"field": "longitude", "type": "quantitative"},
@@ -105,27 +114,35 @@
         },
         {
           "width": 500,
-          "height": 300,
+          "height": 275,
           "mark": "bar",
           "data": {
             "url": "https://raw.githubusercontent.com/Wenjie0325/forest-vis/main/postOffice_data_processed_sample.csv"
           },
-          "params": [{"name":"index",
-          "select": {
-            "type": "point",
-            "toggle": false,
-            "fields": ["duration_category"]
-          }}],
+          "params": [
+            {
+              "name": "index",
+              "select": {
+                "type": "point",
+                "toggle": false,
+                "fields": ["duration_category"]
+              }
+            }
+          ],
           "transform": [
             {"filter": {"param": "brush"}},
             {"filter": {"param": "pts"}},
             {"filter": {"param": "sport_selection"}},
-            {"filter":{"param": "county_selection"}},
+            {"filter": {"param": "county_selection"}},
             {"filter": {"param": "brush"}},
-            {"filter":{"param": "index"}}
+            {"filter": {"param": "index"}}
           ],
           "encoding": {
-            "x": {"field": "stamp_index", "type": "nominal","axis": {"title": "Stamp Rarity", "titleFontSize": 14}},
+            "x": {
+              "field": "stamp_index",
+              "type": "nominal",
+              "axis": {"title": "Stamp Rarity", "titleFontSize": 14}
+            },
             "y": {
               "aggregate": "count",
               "type": "quantitative",
