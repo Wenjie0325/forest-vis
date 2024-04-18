@@ -26,7 +26,8 @@
         {"filter": {"param": "brush"}},
         {"filter": {"param": "pts"}},
         {"filter": {"param": "sport_selection"}},
-        {"filter": {"param": "index"}}
+        {"filter": {"param": "index"}},
+        {"filter": {"param": "Rarity_selection"}}
       ],
       "encoding": {
         "y": {
@@ -83,7 +84,7 @@
                   "name": "pts",
                   "select": {
                     "type": "point",
-                    "fields": ["duration_category"],
+                    "fields": ["state"],
                     "resolve": "global"
                   }
                 }
@@ -93,7 +94,8 @@
                 {"filter": {"param": "pts"}},
                 {"filter": {"param": "sport_selection"}},
                 {"filter": {"param": "county_selection"}},
-                {"filter": {"param": "index"}}
+                {"filter": {"param": "index"}},
+                {"filter": {"param": "Rarity_selection"}}
               ],
               "encoding": {
                 "longitude": {"field": "longitude", "type": "quantitative"},
@@ -128,6 +130,10 @@
                 "toggle": false,
                 "fields": ["duration_category"]
               }
+            },
+            {
+              "name":"Rarity_selection",
+              "select":"interval"
             }
           ],
           "transform": [
@@ -136,7 +142,8 @@
             {"filter": {"param": "sport_selection"}},
             {"filter": {"param": "county_selection"}},
             {"filter": {"param": "brush"}},
-            {"filter": {"param": "index"}}
+            {"filter": {"param": "index"}},
+            
           ],
           "encoding": {
             "x": {
