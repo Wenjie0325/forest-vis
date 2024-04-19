@@ -33,12 +33,13 @@
         "y": {
           "field": "state",
           "type": "nominal",
-          "axis": {"title": "Count of Post Office", "titleFontSize": 14}
+          "axis": {"title": "State", "titleFontSize": 14},
+          "sort": "-x"
         },
         "x": {
           "aggregate": "count",
           "type": "quantitative",
-          "axis": {"title": "State", "titleFontSize": 14}
+          "axis": {"title": "Count of Post Office", "titleFontSize": 14}
         },
         "size": {"value": 10},
         "color": {
@@ -89,7 +90,7 @@
                   }
                 }
               ],
-              "mark": "point",
+              "mark": "circle",
               "transform": [
                 {"filter": {"param": "pts"}},
                 {"filter": {"param": "sport_selection"}},
@@ -100,7 +101,7 @@
               "encoding": {
                 "longitude": {"field": "longitude", "type": "quantitative"},
                 "latitude": {"field": "latitude", "type": "quantitative"},
-                "size": {"value": 10},
+                "size": {"field": "stamp_index", "type": "quantitative"},
                 "tooltip": {"field": "name", "type": "nominal"},
                 "color": {
                   "condition": {
